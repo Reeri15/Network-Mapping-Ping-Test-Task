@@ -70,7 +70,7 @@ ping google.com
 
 ##  Required Screenshots (Evidence)
 
-Create a folder called **/screenshots** and include:
+Created a folder called **/screenshots** and include:
 
 -  ipconfig.png
 -  ping_gateway_172.20.6.1.png
